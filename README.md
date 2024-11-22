@@ -2,21 +2,21 @@
 A lightweight utility library for working with various string casing.
 
 ## Supported Cases
-| Example     | Case Names                                               | 
-|-------------|----------------------------------------------------------|
-| HelloWorld  | Pascal Case<br/>Capital Camel Case                       |
-| helloWorld  | Camel Case                                               |
-| helloworld  | Flat Case<br/>Mumble Case                                |
-| HELLOWORLD  | Upper Flat Case                                          |
-| Hello World | Title Case                                               |
-| Hello world | Sentence Case                                            |
-| hello world | Lower Case                                               |
-| HELLO WORLD | Upper Case                                               |
-| hello_world | Snake Case<br/>C Case                                    |
-| HELLO_WORLD | Screaming Snake Case<br/>Constant Case<br/>Macro Case    |
-| Hello-World | Train Case                                               |
-| hello-world | Kebab Case<br/>Catepillar Case<br/>CSS Case<br>Lisp Case |
-| HELLO-WORLD | COBOL Case                                               |
+| Example     | Case Names                                                | 
+|-------------|-----------------------------------------------------------|
+| HelloWorld  | Pascal Case<br/>Capital Camel Case                        |
+| helloWorld  | Camel Case                                                |
+| helloworld  | Flat Case<br/>Mumble Case                                 |
+| HELLOWORLD  | Upper Flat Case                                           |
+| Hello World | Title Case                                                |
+| Hello world | Sentence Case                                             |
+| hello world | Lower Case                                                |
+| HELLO WORLD | Upper Case                                                |
+| hello_world | Snake Case<br/>C Case                                     |
+| HELLO_WORLD | Screaming Snake Case<br/>Constant Case<br/>Macro Case     |
+| Hello-World | Train Case                                                |
+| hello-world | Kebab Case<br/>Caterpillar Case<br/>CSS Case<br>Lisp Case |
+| HELLO-WORLD | COBOL Case                                                |
 
 ## Features
 Each of the above may be accessed within the `Case` Enum
